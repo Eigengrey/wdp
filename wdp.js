@@ -2,5 +2,5 @@
 
 const eigengrey = 'this is eigengrey';
 
-console.log(eigengrey);
+// console.log(eigengrey);
 
